@@ -33,7 +33,9 @@ body {
     margin-right: 1rem;
 
 }
-
+.cell-props-action-container > *:hover{
+    cursor: pointer;
+}
 .cell-props-action-container>select {
     border: none;
     border-radius: 2px;
